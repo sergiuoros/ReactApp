@@ -1,5 +1,5 @@
 /**
- * Created by popamarina on 11/4/16.
+ * Created by SergiuOros on 11/4/16.
  */
 export const registerRightAction = (navigator, action) => {
   let routes = navigator.getCurrentRoutes();

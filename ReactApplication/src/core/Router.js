@@ -1,5 +1,5 @@
 /**
- * Created by popamarina on 11/1/16.
+ * Created by SergiuOros on 11/1/16.
  */
 import React, {Component} from 'react';
 import {Text, View, Navigator, TouchableOpacity, StyleSheet} from 'react-native';

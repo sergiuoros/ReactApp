@@ -1,5 +1,5 @@
 /**
- * Created by popamarina on 11/7/16.
+ * Created by SergiuOros on 11/7/16.
  */
 import {getLogger} from '../core/utils';
 import {apiUrl, authHeaders} from '../core/api';

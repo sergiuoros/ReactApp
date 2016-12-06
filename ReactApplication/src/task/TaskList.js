@@ -1,5 +1,5 @@
 /**
- * Created by popamarina on 11/7/16.
+ * Created by SergiuOros on 11/7/16.
  */
 import React, {Component} from 'react';
 import {ListView, Text, View, StatusBar, ActivityIndicator} from 'react-native';
